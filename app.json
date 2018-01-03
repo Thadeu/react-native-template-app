@@ -1,15 +1,11 @@
 {
+  "name": "CRNATemplateApp",
+  "displayName": "CRNA Template App",
   "expo": {
-    "name": "react-native-template-app",
-    "slug": "react-native-template-app",
+    "name": "CRNATemplateApp",
+    "slug": "crna-templatea-app",
     "version": "0.0.1",
     "sdkVersion": "23.0.0",
-    "ios": {
-      "bundleIdentifier": "br.com.app.myidentifier"
-    },
-    "android": {
-      "package": "br.com.app.myidentifier"
-    },
     "isDetached": true
   }
 }
