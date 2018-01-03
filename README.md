@@ -1,6 +1,6 @@
 # Content
 
-Template CRNA in order to React Native App
+Template CRNA Ejecting in order to React Native App
 
 ### Install dependencies
 
